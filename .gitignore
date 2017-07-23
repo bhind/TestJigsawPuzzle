@@ -1,0 +1,17 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+
+# ============ #
+# for others   #
+# ============ #
+sysinfo.txt #Unity3D Generated File On Crash Reports
